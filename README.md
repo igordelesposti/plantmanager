@@ -1,1 +1,3 @@
 # plantmanager
+
+expo start
